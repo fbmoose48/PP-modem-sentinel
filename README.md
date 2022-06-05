@@ -1,1 +1,1 @@
-# PP-modem-watchdog
+# PP-modem-sentinel
